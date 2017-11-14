@@ -1,5 +1,5 @@
 # RSA-Crypt
-A c++ code for crypting string with the RSA algorithm.
+A c++ lib for crypting strings with the RSA algorithm.
 
 This application has the gmpxx lib for dependency.
 
